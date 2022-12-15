@@ -13,7 +13,7 @@ I'm Brian, a software engineer, Linux enthusiast and kernel hacker!
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,c,cpp,py,rust,bash,vim,git,github,githubactions,cmake,docker,mysql,postgres,qt" />
+    <img src="https://skillicons.dev/icons?i=linux,c,cpp,py,rust,bash,vim,git,github,githubactions,cmake,docker,mysql,postgres,qt,opencv" />
   </a>
 </p>
 
