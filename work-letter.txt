@@ -1,0 +1,376 @@
+Dear Hiring Manager,
+
+--------------- Intro ---------------
+As a software developer who's consistently been drawn to innovative technology,
+I was thrilled to come across the <Position> position at <Company>.
+
+As a firm believer in the importance of accessible mental health care, I was
+drawn to the <Position> position at <Company>. I had the chance to use the
+<Company> app when I found myself in need of support during a challenging time,
+and I was truly appreciative of the platform's ability to connect me with a
+licensed mental health professional so seamlessly. This experience has left me
+with a profound desire to contribute my software development expertise to a
+company that is making a significant difference in the lives of countless
+individuals.
+
+As a software developer with a passion for video games and storytelling, I was
+thrilled to come across the <Position> opportunity at <Company>. I will never
+forget the time I spent playing the Mass Effect series, which left an indelible
+impact on my love for gaming and solidified my commitment to a career in
+software development. I am eager to contribute my technical expertise and
+creative problem-solving abilities to a company that continues to develop
+captivating, immersive gaming experiences for players around the world.
+
+As an advocate for environmental sustainability and conservation, I was
+intrigued by the <Position> role at <Company>. I have long admired <Company>'s
+commitment to pushing the envelope when it comes to electric vehicle
+technology, and I am particularly impressed with the company's ability to
+balance form and function in the design of its vehicles. I am eager to bring my
+software development skills to a company that is pioneering a cleaner and more
+sustainable future for transportation.
+
+I recently came across the <Position> position at <Company>, and as a
+long-time admirer of the company's commitment to innovation and customer
+obsession, I couldn't resist the opportunity to apply. My fascination with
+<Company> began when I participated in a hackathon that focused on using AWS
+services to create scalable applications. This experience not only ignited my
+passion for cloud computing, but also gave me a deep appreciation for the
+impact <Company> has on the technology landscape.
+
+[famous]
+This position caught my attention because of the company's long-standing
+history in the tech industry and its dedication to continuous innovation. As
+someone who strives to be at the forefront of emerging technologies, I am eager
+to join a company that plays a pivotal role in shaping the future of
+<Industry>. I am confident that my experience in <Position> and my passion for
+innovation make me the perfect candidate to contribute to <Company>'s ongoing
+success.
+
+As a long-time admirer of <Company>'s innovative approach to technology, I was
+thrilled to come across the <Position> position. <Company>'s dedication to
+creating life-changing solutions has always inspired me, especially since I had
+the opportunity to work on a project that integrated <Company> Maps APIs to
+improve the user experience in a transportation app I developed. I am eager to
+contribute my software development expertise to a company that consistently
+pushes the boundaries of what's possible.
+
+As an avid user of <Company> products and services, I was ecstatic to discover
+the <Position> position at <Company>. Over the years, I've come to appreciate
+the company's ability to create seamless, user-friendly technology that truly
+enhances our day-to-day lives. My experience in a recent project, where I
+successfully integrated <Company> APIs within our application, reinforced my
+admiration for <Company>'s work and left me eager to contribute to its
+innovative projects.
+
+As a <Position> passionate about the <Industry> industry, I was thrilled to
+learn about the opening for this role at <Company>. Having been a long-time
+user of both Mint and QuickBooks, I've seen firsthand how <Company>'s
+commitment to simplifying personal finance has made a significant difference in
+my own life. I am excited about the prospect of utilizing my development skills
+to improve and extend Intuit's product offerings even further.
+
+Having grown up witnessing the incredible transformation of the gaming
+industry, I've always been captivated by the innovative work of companies like
+<Company>. When I discovered the <Position> position at <Company>, I knew I
+needed to seize the opportunity to merge my passion for gaming with my
+expertise in software development. I am eager to contribute to <Company>'s
+mission of creating immersive gaming experiences that inspire and delight users
+around the world.
+
+As someone who greatly values efficiency and organization in both my
+personal and professional life, I was immediately drawn to the <Position>
+position at <Company>. What particularly stands out to me about <Company> is
+its dedication to helping teams work more effectively together, which is a
+philosophy I have always championed throughout my own coding projects. I
+strongly believe that my technical skills and commitment to streamlined
+collaboration would make me an excellent fit at <Company>.
+
+After experiencing the transformative power of virtual reality during a
+college course, I knew that I wanted to be part of the movement toward creating
+more immersive and engaging digital experiences. The opportunity to do so as a
+Software Engineer at Oculus is particularly exciting for me, as Oculus has
+consistently pushed the boundaries of what is possible in virtual reality. I am
+eager to contribute my coding talents and passion for innovation to a company
+that is shaping the future of this exciting field.
+
+As a lifelong coding enthusiast, I was thrilled to come across the <Position>
+position at <Company>. I remember my first foray into programming, when I
+built a simple calculator in C during high school. Since then, I've always
+admired <Company>'s commitment to innovation and its unique ability to create
+products that truly impact people's lives. This opportunity aligns perfectly
+with my passion for coding and my desire to be part of a company that values
+creativity and forward-thinking.
+
+I am writing to apply for the <Position> position at <Company>. A
+few years ago, I had the opportunity to visit the Apple Park Visitor Center,
+and I was captivated by the innovative atmosphere and the company's commitment
+to creating products that improve people's lives. As a software engineer with a
+passion for cutting-edge technology, I am eager to contribute my skills to a
+company like <Company>, which consistently pushes the boundaries of what is
+possible.
+
+When I first heard about <Company>'s commitment to use technology to make the
+world a better place, I knew this was a company I wanted to join. As a software
+engineer dedicated to creating meaningful solutions, I am excited to apply for
+the <Position> role at <Company>, where I can collaborate with other talented
+engineers to address some of the world's most pressing problems.
+
+Having recently completed a successful project using Amazon Web Services, I was
+excited to learn about the <Position> opportunity at <Company>. I believe my
+hands-on experience with AWS tools and my passion for creating scalable,
+efficient solutions make me a great fit for <Company>'s ecosystem, where I can
+contribute to the growth and success of its cutting-edge services.
+
+As a software engineer who thrives on tackling complex challenges, I am drawn
+to the <Position> position at <Company> because of the company's ambitious
+goals to revolutionize space travel. My love for problem-solving, combined with
+a fascination for space exploration, makes this opportunity an incredibly
+exciting one for me to pursue.
+
+---------------- Impact --------------
+«Real-World Impact: This sentence demonstrates the real-world impact of the
+applicant's work on server costs and data accessibility. It's important to
+showcase tangible results from your past experiences to make a strong case for
+your value as a candidate.»
+
+In my 5 years of experience as a <Position>, I have consistently delivered
+high-quality software solutions by combining my technical skills with a strong
+passion for problem-solving.
+
+At <Ex-Company>, I led a small team in successfully integrating a new
+cloud-based storage system, which resulted in a 40% reduction in server costs
+and increased data accessibility for over 1,000 users. I believe my knack for
+identifying and implementing cost-effective solutions would be valuable to
+Microsoft as it continues to expand its cloud services.
+
+«Emphasizing Relevant Skills and Passion: This cover letter effectively
+highlights the candidate's technical skills and passion for problem-solving,
+which are crucial for a Senior Software Developer role. Make sure you mention
+your relevant experience and how it aligns with the job requirements.»
+
+Most notably, during my time at <Company>, I spearheaded an initiative to
+optimize the performance of our core product. By implementing a new caching
+mechanism, I successfully reduced server response times by 35%. This
+accomplishment not only increased customer satisfaction but also led to a 20%
+increase in user engagement.
+
+«Innovative Tool Creation: By highlighting the development of an AI-driven
+code review tool, the applicant shows their ability to create innovative
+solutions that address pain points for developers and end-users, which is an
+attractive quality for any software company.»
+
+Additionally, during my time at <Company>, I also developed an AI-driven
+code review tool that improved code quality by 20% and reduced the time spent
+on code reviews by 15%. This experience has honed my ability to create
+innovative tools that directly address the needs of developers and end-users
+alike.
+
+«Quantifiable Achievements: By providing specific numbers and accomplishments,
+the candidate demonstrates the impact of their work. When writing your cover
+letter, include quantifiable achievements to showcase your value to potential
+employers.»
+
+At my most recent position at <Company>, a cybersecurity startup, I took on the
+challenge of developing a complex data encryption feature that many thought was
+impossible to achieve.
+
+«Overcoming Challenges: Sharing a story of how you tackled a difficult problem
+or project can be a powerful way to showcase your determination and
+problem-solving abilities. This can make you stand out as a candidate who is
+not afraid to take on challenges.»
+
+By researching and implementing cutting-edge encryption algorithms, I was able
+to create a secure, user-friendly solution that has become a flagship product
+for the company. This experience has honed my ability to tackle complex
+problems head-on and find innovative solutions that meet both technical and
+user requirements.
+
+«Emphasizing Relevant Skills and Passion: This cover letter effectively
+highlights the candidate's technical skills and passion for problem-solving,
+which are crucial for a Senior Software Developer role. Make sure you mention
+your relevant experience and how it aligns with the job requirements.»
+
+In my 5 years of experience as a software developer, I have consistently
+delivered high-quality software solutions by combining my technical skills with
+a strong passion for problem-solving.
+
+«Quantifiable Achievements: By providing specific numbers and accomplishments,
+the candidate demonstrates the impact of their work. When writing your cover
+letter, include quantifiable achievements to showcase your value to potential
+employers.»
+
+Most notably, during my time at Resume Worded, I spearheaded an initiative to
+optimize the performance of our core product. By implementing a new caching
+mechanism, I successfully reduced server response times by 35%. This
+accomplishment not only increased customer satisfaction but also led to a 20%
+increase in user engagement.
+
+«Overcoming Challenges: Sharing a story of how you tackled a difficult problem
+or project can be a powerful way to showcase your determination and
+problem-solving abilities. This can make you stand out as a candidate who is
+not afraid to take on challenges.»
+
+At my most recent position at Waffle, a cybersecurity startup, I took on the
+challenge of developing a complex data encryption feature that many thought was
+impossible to achieve. By researching and implementing cutting-edge encryption
+algorithms, I was able to create a secure, user-friendly solution that has
+become a flagship product for the company. This experience has honed my ability
+to tackle complex problems head-on and find innovative solutions that meet both
+technical and user requirements.
+
+«Quantifiable Accomplishment: By providing specific numbers on how the
+implementation of microservices architecture led to improvements, this cover
+letter demonstrates the tangible impact the candidate has made in their
+previous roles.»
+
+As a <Position> at <Company>, I consistently delivered high-quality code by
+employing clean coding practices and collaborating closely with my teammates.
+One of my proudest accomplishments was the implementation of a microservices
+architecture that led to a 30% reduction in deployment time and a 20% increase
+in application performance. I believe my ability to adapt to new technologies
+and work with cross-functional teams would greatly benefit <Company>'s diverse
+range of projects.
+
+«Relevant Experience: Highlighting a recent accomplishment in the security
+domain shows that the candidate has the skills and experience needed for the
+Java Developer role at <Company>, which is likely to involve working on secure
+applications.»
+
+In my most recent role at Waffle, I spearheaded the development of a security
+analytics platform using Java and Elasticsearch, which resulted in a 25%
+improvement in threat detection rates for our clients. I'm excited to bring
+this experience to <Company> and contribute to the strengthening of its security
+infrastructure across various products and services.
+
+«Highlighting Specific Accomplishments: By mentioning a specific project and
+its impact, the candidate demonstrates their ability to produce results and
+their experience working in a team environment.»
+
+At <Ex-Company>, I successfully led a team of developers in implementing a
+real-time collaborative editing feature for their online platform, increasing
+user engagement by 30%.
+
+«Emphasizing Technical Skills: Listing relevant programming languages shows the
+candidate's technical proficiency and adaptability, which are key traits for a
+software engineer role.»
+
+This experience not only honed my technical skills but also taught me the
+importance of effective communication and teamwork. I believe that my
+background in both software development and team leadership would be an asset
+to <Company>'s collaborative environment. Furthermore, my expertise in various
+programming languages, such as Java, Python, and C++, would allow me to
+comfortably adapt to the diverse range of projects that <Company> undertakes.
+
+«Peer Code Review Implementation: This sentence highlights the applicant's
+ability to improve processes and work collaboratively. When applying for a
+software engineering role, it's important to show that you can contribute to
+the overall success of the team by making it more efficient.»
+
+Additionally, during my time at <Company>, I developed and implemented a peer
+code review system that greatly improved the quality of our software releases
+and decreased the number of bugs by 30%. I am confident that my experience with
+implementing efficient processes and my dedication to continuous improvement
+will be valuable assets to <Company>'s software engineering team.
+
+---------------- Excitement --------------
+«Excitement for Specific Projects: Mentioning excitement for specific projects
+at the company, like Azure Cloud Services and AI-driven tools, shows genuine
+interest in the role and demonstrates that the candidate has done their
+research on the company's offerings.»
+
+I'm particularly excited about the potential to work on projects like
+<Company>'s Azure Cloud Services and AI-driven tools,[3] as I've seen firsthand
+how these technologies can make a real impact on businesses and individuals.
+The prospect of contributing to Microsoft's mission of empowering every person
+and organization on the planet to achieve more is incredibly motivating to me.
+
+The <Position> position at <Company> caught my attention because of the
+company's long-standing history in the tech industry and its dedication to
+continuous innovation. As someone who strives to be at the forefront of
+emerging technologies, I am eager to join a company that plays a pivotal role
+in shaping the future of <Industry>. I am confident that my experience in
+<Position> and my passion for innovation make me the perfect candidate to
+contribute to <Company>'s ongoing success.
+
+I am particularly excited about the opportunity to work on <Company>'s
+groundbreaking projects, such as the development of AI-driven technologies and
+cloud computing solutions. I believe my past experiences, combined with my
+drive to create meaningful software solutions, make me a strong fit for this
+role at <Company>.
+
+I am particularly excited about the opportunity to work on <Company>'s
+groundbreaking projects, such as the development of AI-driven technologies and
+cloud computing solutions. I believe my past experiences, combined with my
+drive to create meaningful software solutions, make me a strong fit for this
+role at <Company>.
+
+«Expressing Genuine Interest: This sentence shows enthusiasm for the role and
+the company, emphasizing that the candidate is not only interested in the
+technical aspects of the job but also in the opportunities for personal growth
+and making an impact.»
+
+I am particularly drawn to this role at <Company> because it offers the chance to
+work on cutting-edge projects that reach millions of users worldwide, while
+also fostering a culture of continuous learning and growth. I am eager to join
+a team that shares my passion for building innovative solutions and making a
+lasting impact.
+
+«Expressing Genuine Excitement: Sharing specific products that the candidate is
+excited about working on demonstrates genuine interest in the company and its
+mission.»
+
+I am particularly excited about the prospect of working on <Company>'s
+cutting-edge products, such as <Company> Assistant and TensorFlow. These
+technologies have the potential to revolutionize the way we interact with our
+devices and make our lives more efficient. I am eager to contribute to
+<Company>'s mission to organize the world's information and make it universally
+accessible and useful.
+
+«Excitement for Groundbreaking Projects: Expressing excitement about the
+company's projects shows genuine interest in the role and demonstrates that
+you've done your research. Make sure to mention specific projects or
+initiatives that align with your skills and interests.»
+
+I am particularly excited about the opportunity to work on groundbreaking
+projects, such as the development of new applications for Apple devices, which
+have the potential to shape the future of technology.
+
+---------------- Gracious --------------
+«Gracious Thank You: A short and simple thank you in the closing paragraph
+shows appreciation for the reader's time and consideration, leaving a positive
+impression as the cover letter concludes.»
+
+Thank you for considering my application. I'm eager to have the chance to
+discuss how my experience and passion for <Position> can benefit
+<Company> and its wide range of products.
+
+Thank you for considering my application. I look forward to the opportunity to
+discuss how my skills and experiences align with <Company>'s needs and how I
+can contribute to the ongoing success of the company.
+
+Thank you for considering my application. I look forward to the opportunity to
+discuss how my skills and experiences align with <Company>'s needs and how I can
+contribute to the ongoing success of the company.
+
+Thank you for considering my application. I am looking forward to the
+opportunity to further discuss my suitability for this role and learn more
+about the exciting projects at <Company>.
+
+Thank you for considering my application. I am confident that my skills and
+enthusiasm would make me an excellent fit for the Software Engineer position at
+<Company>. I look forward to the opportunity to discuss my application further.
+
+«Gratitude and Openness to Discussion: A simple, genuine thank you and an
+expression of openness to further discussion can leave a positive impression on
+the hiring manager. It shows that you're approachable and eager to learn more
+about the company and its needs.»
+
+Thank you for considering my application. I look forward to the opportunity to
+discuss how my skills and experiences align with Apple's needs and contribute
+to the company's ongoing success.[4]
+
+------------------------------
+Sincerely,
+
+Hossein Salehipour
+
