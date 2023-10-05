@@ -279,7 +279,7 @@ interest in the role and demonstrates that the candidate has done their
 research on the company's offerings.»
 
 I'm particularly excited about the potential to work on projects like
-<Company>'s Azure Cloud Services and AI-driven tools,[3] as I've seen firsthand
+<Company>'s Azure Cloud Services and AI-driven tools, as I've seen firsthand
 how these technologies can make a real impact on businesses and individuals.
 The prospect of contributing to Microsoft's mission of empowering every person
 and organization on the planet to achieve more is incredibly motivating to me.
