@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=briansalehi&color=red&style=flat)
-
 Hey There! 👋
 =============
 
