@@ -1,5 +1,4 @@
 ![](https://komarev.com/ghpvc/?username=briansalehi&color=red&style=flat)
-[![](https://img.shields.io/website?down_color=blue&down_message=blue&up_color=blue&up_message=resume&url=https%3A%2F%2Fgithub.com/briansalehi/resume/raw/global/resume.pdf)](https://github.com/briansalehi/resume/raw/global/resume.pdf)
 
 Hey There! 👋
 =============
