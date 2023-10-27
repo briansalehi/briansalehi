@@ -4,15 +4,17 @@
 Hey There! 👋
 =============
 
-I'm Brian, a software engineer, Linux enthusiast and kernel hacker!
+I'm Brian, an **embedded software engineer**, Linux enthusiast and a kernel hacker!
 
-- I'm currently learning and working on Linux kernel development and embedded systems.
-- I love open source community and enjoy using tools and technologies professionally.
-- When I'm not coding, I teach others what I know.
+- Currently learning and working on kernel and device driver development and embedded systems
+- Enjoying open source contributions
+- Learning professional use of development tools and technologies
+- Steping into exciting topics of image processing and mathematics
+- Teaching others what I know
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,c,cpp,py,rust,bash,vim,git,github" />
+    <img src="https://skillicons.dev/icons?i=linux,c,cpp,py,bash,git,github,docker,githubactions,qt" />
   </a>
 </p>
 
