@@ -1,4 +1,4 @@
-You are here to check on an embedded Linux software engineer, and a kernel hacker!
+You are here to check on an embedded Linux software developer!
 
 If I want to say a little about me, I mostly code in C and C++ on embedded Linux devices, having an every day habit of kernel hacking as my top most interest, and getting more involved into open source projects.
 
