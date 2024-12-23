@@ -1,12 +1,6 @@
-Hey There!
-=============
+You are here to check on an embedded Linux software engineer, and a kernel hacker!
 
-I'm an embedded Linux software engineer, and a kernel hacker!
-
-- Coding mostly on embedded devices in C++
-- Learning and working on kernel and device driver development and embedded systems
-- Enjoying open source contributions
-- Learning professional use of development tools and technologies
+If I want to say a little about me, I mostly code in C and C++ on embedded Linux devices, having an every day habit of kernel hacking as my top most interest, and getting more involved into open source projects.
 
 <p align="center">
   <a href="https://skillicons.dev">
